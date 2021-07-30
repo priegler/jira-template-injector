@@ -1,0 +1,28 @@
+﻿{
+    "options": {
+        "autoSyncUrls": [
+			"https://drive.google.com/uc?export=download&id=1BMGJLPaxGR9vO3Ko7-QV7FWVPHTCdO7O"
+		],
+        "domains": [
+            "jira.9y.engineering"
+        ],
+        "inputIDs": [],
+        "limit": [
+			"all"
+		]
+    },
+    "templates": [
+        {
+            "issuetype-field": "Green",
+            "name": "FEATURE TEMPLATE",
+            "projects-field": "",
+            "text": "h2. Description\nh3. Story\n\n{color:#c1c7d0}This includes the user story to present the problem from a user perspective{color}\n\n<TI>Story</TI>\n\nh3. Formal Description\n\n{color:#c1c7d0}These are formal requirements and instructions on how this should be solved{color}\n\n<TI>Formal Description</TI>\n\nh3. Notes\n\n{color:#c1c7d0}Additional information that might be useful.{color}\n\n<TI>Notes</TI>\n\n \nh2. Acceptance Criteria\n\n{color:#c1c7d0}Please be ready to present the following test cases in order to accept the ticket as done{color}\n # <TI>AC1</TI>"
+        },
+        {
+            "issuetype-field": "Red",
+            "name": "BUG TEMPLATE",
+            "projects-field": "",
+            "text": "h3. Environment\n * <TI>Environment</TI>\n\nh3. Steps to reproduce\n * <TI>Steps</TI>\n\nh3. Expected outcome\n * <TI>Expected</TI>\n\nh3. Actual outcome\n * <TI>Actual</TI>\n\nh3. Notes\n * <TI>Notes</TI>\n\n "
+        }
+    ]
+}
