@@ -1,7 +1,7 @@
 ﻿{
     "options": {
         "autoSyncUrls": [
-			"https://drive.google.com/uc?export=download&id=1BMGJLPaxGR9vO3Ko7-QV7FWVPHTCdO7O"
+			"https://raw.githubusercontent.com/priegler/jira-template-injector/master/9Y_jira_templates.json"
 		],
         "domains": [
             "jira.9y.engineering"
@@ -23,6 +23,12 @@
             "name": "BUG TEMPLATE",
             "projects-field": "",
             "text": "h3. Environment\n * <TI>Environment</TI>\n\nh3. Steps to reproduce\n * <TI>Steps</TI>\n\nh3. Expected outcome\n * <TI>Expected</TI>\n\nh3. Actual outcome\n * <TI>Actual</TI>\n\nh3. Notes\n * <TI>Notes</TI>\n\n "
+        },
+        {
+            "issuetype-field": "Epic",
+            "name": "EPIC TEMPLATE",
+            "projects-field": "",
+            "text": "*Epic*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, and points about implementation here.</TI>"
         }
     ]
 }
