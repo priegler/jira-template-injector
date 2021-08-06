@@ -16,7 +16,7 @@
             "issuetype-field": "Green",
             "name": "FEATURE TEMPLATE",
             "projects-field": "",
-            "text": "*Story*\n/n\n{color:#c1c7d0}This includes the user story to present the problem from a user perspective{color}\n\n<TI>Story</TI>\n\n*Formal Description*\n\n{color:#c1c7d0}These are formal requirements and instructions on how this should be solved{color}\n\n<TI>Formal Description</TI>\n\n*Notes*\n\n{color:#c1c7d0}Additional information that might be useful.{color}\n\n<TI>Notes</TI>\n\n*Acceptance Criteria*\n\n{color:#c1c7d0}Please be ready to present the following test cases in order to accept the ticket as done{color}\n # <TI>AC1</TI>"
+            "text": "*Story*\n\n{color:#c1c7d0}This includes the user story to present the problem from a user perspective{color}\n\n<TI>Story</TI>\n\n*Formal Description*\n\n{color:#c1c7d0}These are formal requirements and instructions on how this should be solved{color}\n\n<TI>Formal Description</TI>\n\n*Notes*\n\n{color:#c1c7d0}Additional information that might be useful.{color}\n\n<TI>Notes</TI>\n\n*Acceptance Criteria*\n\n{color:#c1c7d0}Please be ready to present the following test cases in order to accept the ticket as done{color}\n # <TI>AC1</TI>"
 	},
         {
             "issuetype-field": "Red",
