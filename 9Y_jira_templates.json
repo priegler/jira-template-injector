@@ -22,7 +22,7 @@
             "issuetype-field": "Red",
             "name": "BUG TEMPLATE",
             "projects-field": "",
-            "text": "h3. Environment\n * <TI>Environment</TI>\n\nh3. Steps to reproduce\n * <TI>Steps</TI>\n\nh3. Expected outcome\n * <TI>Expected</TI>\n\nh3. Actual outcome\n * <TI>Actual</TI>\n\nh3. Notes\n * <TI>Notes</TI>\n\n "
+            "text": "*Issue Description:*\n\n<Describe what the issue is.>\n\n*Steps to reproduce:*\n\n# step 1\n# step 2\n# step 3\n\n*Expected Outcome:*\n\n<Describe what should have happended>\n\n*Environment:*\n\nTested on <production/staging> , on <iOS/Android>, App Version <1.0.0>"
         },
         {
             "issuetype-field": "Epic",
